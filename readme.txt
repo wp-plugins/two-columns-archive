@@ -12,6 +12,8 @@ A widget that displays blog archive in two columns.
 
 A widget that displays blog archive in two columns. 
 
+See the [Two Columns Archive homepage](http://eax.me/two-columns-archive-plugin/) for further information.
+
 == Installation ==
 
 1. Upload `two-columns-archive.php` to the `/wp-content/plugins/` directory
