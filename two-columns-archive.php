@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Two Columns Archive
-Plugin Version: 1.0
+Version: 1.0
 Plugin URI: http://eax.me/two-columns-archive-plugin/
 Description: Description - http://eax.me/two-columns-archive-plugin/
 Author: Alexandr Alexeev
